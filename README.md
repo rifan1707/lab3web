@@ -1,7 +1,7 @@
 # lab3web
-rifan arfani
-312010459
-Ti.20.b2
+                       rifan arfani
+                        312010459
+                        Ti.20.b2
 
 
 
